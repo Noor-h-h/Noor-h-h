@@ -1,5 +1,8 @@
 # Hi there! 👋 I’m Noor Hameed
 
+<p align="center">
+  <img src="./noor_ai_style.gif" alt="Hello World Animation" width="450">
+</p> 
 🎓 Junior Programmer | Aspiring Data Analyst & AI Engineer  
 🏫 B.Sc. in Production & Metallurgy Engineering – University of Technology, Iraq  
 📍 Based in Baghdad, Iraq
