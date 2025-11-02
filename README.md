@@ -37,5 +37,9 @@
   @noor_hameed97
 
 ---
-
+<p align="center">
+  <img src="./noor_animated.gif" alt="Hello World Animation" width="400">
+</p>
 ✨ *Thanks for visiting my profile! Feel free to check my repositories and connect for collaboration!*
+
+
