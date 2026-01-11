@@ -24,7 +24,7 @@
 
 ---
 
-### 📌 Goals for 2025
+### 📌 Goals for 2026
 - Build multiple data analysis projects
 - Learn Machine Learning fundamentals
 - Publish AI & analytics projects on GitHub
